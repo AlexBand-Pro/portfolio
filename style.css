@@ -406,7 +406,7 @@ header {
 .portfolio__item {
     background: var(--color-accent);
     overflow: hidden;
-
+    height: 87vw;
 }
 
 .portfolio__img {
@@ -415,6 +415,7 @@ header {
         opacity 250ms linear;
     object-fit: cover;
     height: 100%;
+    width: 100%;
 }
 
 .portfolio__item:focus {
@@ -426,6 +427,18 @@ header {
 .portfolio__item:focus .portfolio__img {
     transform: scale(1.2);
     opacity: .5;
+}
+
+@media (min-width: 695px) {
+    .portfolio__item {
+        height: 45vw;
+    }
+}
+
+@media (min-width: 1040px) {
+    .portfolio__item {
+        height: auto;
+    }
 }
 
 
