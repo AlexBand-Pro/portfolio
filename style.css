@@ -520,10 +520,22 @@ header {
 
 .portfolio-item-individual a {
     margin-right: 0.8em;
-    font-size: 1rem;
+    font-size: 0.75rem;
     border: 1px solid var(--color-dark);
     color: var(--color-dark);
-    padding: 0.25em 1em;
+    padding: 0.4em 1em;
     text-decoration: none;
+}
 
+@media (min-width: 360px) {
+    .portfolio-item-individual a {
+        font-size: 0.9rem;
+        padding: 0.25em 1em;
+    }
+}
+
+@media (min-width: 400px) {
+    .portfolio-item-individual a {
+        font-size: 1rem;
+    }
 }
