@@ -9,7 +9,7 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 
 ## 🔗 Live Demo
 
-[![View My Portfolio](https://github.com/user-attachments/assets/5fafcd88-79e8-4d39-a6bd-093cb7f1e4c1)](https://zerogravitycode.netlify.app/)
+[![View My Portfolio](https://github.com/user-attachments/assets/5fafcd88-79e8-4d39-a6bd-093cb7f1e4c1)](https://alexband-pro.github.io/portfolio/)
 
 
 ## 🚀 Features
