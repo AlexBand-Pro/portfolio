@@ -17,7 +17,7 @@ The site is fully responsive, accessible, and designed to be a professional hub 
   - Freelancer Dashboard  
   - Tenzies Game  
   - Assembly Game  
-  - Zero Gravity Code (freelance site)  
+  - Zero Gravity Code (personal site)  
   - Expense Tracker  
   - Lead Generation Landing Page  
 - **Footer with Social Links** – Easy access to email, GitHub, LinkedIn, Twitter (X), and Facebook.  
@@ -38,8 +38,8 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 ## 📂 Sections
 
 - **Home / Intro** – Hero image, name, and title.  
-- **Services** – Overview of skills (Fundamentals, React).  
-- **About Me** – Personal background, developer story, and interests.  
+- **Skills** – Overview of skills (Fundamentals, React).  
+- **About Me** – Personal background, story, and interests.  
 - **Projects** – Grid of featured projects with thumbnails and details.  
 - **Footer** – Contact email and social media links.  
 
@@ -64,8 +64,6 @@ This portfolio is more than just a website — it’s a **branding tool** that d
 ## 📬 Contact
 
 Feel free to connect with me:  
-- **Email:** alexband1996dev@gmail.com  
+- **Email:** alexbanddev1996@gmail.com
 - **GitHub:** [AlexBand-Pro](https://github.com/AlexBand-Pro)  
 - **LinkedIn:** [Alex Band](https://www.linkedin.com/in/alex-band-1985aa346/)  
-- **Twitter (X):** [@linguaalex1996](https://x.com/linguaalex1996)  
-- **Facebook:** [Alex Band](https://www.facebook.com/profile.php?id=61551932804785)
