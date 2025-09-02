@@ -7,6 +7,11 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 
 ---
 
+## 🔗 Live Demo
+
+[![View My Portfolio](https://github.com/user-attachments/assets/5fafcd88-79e8-4d39-a6bd-093cb7f1e4c1)](https://zerogravitycode.netlify.app/)
+
+
 ## 🚀 Features
 
 - **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.  
@@ -52,12 +57,6 @@ This portfolio is more than just a website — it’s a **branding tool** that d
 - Ability to build responsive, accessible layouts from scratch.  
 - Clear organization of professional projects.  
 - Attention to detail in both design and code.  
-
----
-
-## 🔗 Live Demo
-
-👉 [View My Portfolio](https://zerogravitycode.netlify.app/)  
 
 ---
 
