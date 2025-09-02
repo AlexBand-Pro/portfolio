@@ -7,6 +7,11 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 
 ---
 
+## 🔗 Live Demo
+
+[![View My Portfolio](https://github.com/user-attachments/assets/5fafcd88-79e8-4d39-a6bd-093cb7f1e4c1)](https://alexband-pro.github.io/portfolio/)
+
+
 ## 🚀 Features
 
 - **Responsive Design** – Works seamlessly on mobile, tablet, and desktop.  
@@ -29,7 +34,6 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 - **HTML5** – Semantic structure  
 - **CSS3** – Responsive, mobile-first styling  
 - **JavaScript (Vanilla JS)** – Interactive navigation and functionality  
-- **Normalize.css** – Consistent base styling across browsers  
 - **Font Awesome** – Icons for social links and UI  
 - **Google Fonts** – Professional typography  
 
@@ -42,22 +46,6 @@ The site is fully responsive, accessible, and designed to be a professional hub 
 - **About Me** – Personal background, story, and interests.  
 - **Projects** – Grid of featured projects with thumbnails and details.  
 - **Footer** – Contact email and social media links.  
-
----
-
-## 🌟 Why This Project Matters
-
-This portfolio is more than just a website — it’s a **branding tool** that demonstrates:  
-
-- Ability to build responsive, accessible layouts from scratch.  
-- Clear organization of professional projects.  
-- Attention to detail in both design and code.  
-
----
-
-## 🔗 Live Demo
-
-👉 [View My Portfolio](https://zerogravitycode.netlify.app/)  
 
 ---
 
