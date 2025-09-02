@@ -53,6 +53,8 @@ section {
     padding: 5em 2em;
 }
 
+
+
 img {
     display: block;
     max-width: 100%;
@@ -401,12 +403,14 @@ header {
     display: grid;
     grid-gap: 2em;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    overflow: hidden;
 }
 
 .portfolio__item {
     background: var(--color-accent);
     overflow: hidden;
     height: 87vw;
+    width: 100%;
 }
 
 .portfolio__img {
@@ -414,6 +418,7 @@ header {
         transform 750ms cubic-bezier(.5, 0, .5, 1),
         opacity 250ms linear;
     object-fit: cover;
+    object-position: top;
     height: 100%;
     width: 100%;
 }
